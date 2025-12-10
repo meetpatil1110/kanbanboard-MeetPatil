@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* small page padding so component looks like assignment screenshot */
+body { @apply bg-gray-50 text-gray-900; }
