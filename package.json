@@ -8,7 +8,8 @@
     "build": "vite build",
     "preview": "vite preview",
     "storybook": "storybook dev -p 6006",
-    "build-storybook": "storybook build -o storybook-static"
+    "build-storybook": "storybook build -o storybook-static",
+    "chromatic": "npx chromatic --project-token=chpt_765f756795d6f47"
   },
   "dependencies": {
     "@dnd-kit/core": "^6.3.1",
