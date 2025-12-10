@@ -4,7 +4,7 @@ A modular, accessible, and fully interactive Kanban board UI component built wit
 The project emphasizes clean architecture, reusable components, and maintainable front-end engineering practices.
 
 Live Storybook
-http://localhost:5173/
+[http://localhost:5173/](https://69399c72804b6deecef23a0c-dliwzqjadb.chromatic.com/?path=/story/kanban-kanbanboard--default)
 
 Installation:
 pnpm install
