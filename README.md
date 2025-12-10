@@ -6,9 +6,12 @@ The project emphasizes clean architecture, reusable components, and maintainable
 Live Storybook
 http://localhost:5173/
 
-Installation
-npm install
-npm run storybook
+Installation:
+pnpm install
+pnpm dev
+# then open: http://localhost:5173
+pnpm storybook
+# then open: http://localhost:6006
 
 Architecture Overview
 
