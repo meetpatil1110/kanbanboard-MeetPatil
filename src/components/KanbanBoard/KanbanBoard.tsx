@@ -180,7 +180,7 @@ export default function KanbanBoard() {
   return (
     <div className="container py-8">
       <header className="mb-6 border-b border-neutral-200 pb-4">
-        <h1 className="text-2xl font-semibold">KanbanBoard</h1>
+        <h1 className="text-3xl font-semibold">KanbanBoard</h1>
       </header>
 
       {/* Input + Add Button */}
